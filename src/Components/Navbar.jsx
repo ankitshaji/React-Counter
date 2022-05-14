@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+// import React, { Component } from "react";
 
 //stateless functinoal component
 const NavBar = ({totalCounters}) =>{
